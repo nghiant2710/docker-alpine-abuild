@@ -1,5 +1,7 @@
 # Alpine Package Builder
 
+# THIS README IS OUTDATED. WILL BE UPDATED SOON!
+
 This is a Docker image for building Alpine Linux packages.
 
 ## Usage
